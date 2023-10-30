@@ -1,0 +1,46 @@
+.header {
+    background-color: #deb7db;
+    color: #fff;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    background-color: #deb7db;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.navbar-brand {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #deb7db;
+}
+
+.start-screen, .quiz-screen, .end-screen {
+    display: block;
+}
+
+h1, h2 {
+    margin: 20px 0;
+}
+
+.btn {
+    background-color: #ff00d9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.choices li {
+    list-style-type: none;
+    margin: 10px 0;
+}
+
